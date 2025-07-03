@@ -30,5 +30,5 @@ const projects = [
   { img: "img/projects/2.jpg", desc: "Project Bean Bank (Backend)", link: "https://github.com/widycoy/bean-bank-transitions" },
   { img: "img/projects/3.jpg", desc: "Suwit Jawa Game", link: "https://github.com/widycoy/SUWIT-JAWA-GAME" },
   { img: "img/projects/4.jpg", desc: "Project Automation - QA", link: "https://github.com/widycoy/MobileAutomation" },
-  { img: "img/projects/5.jpg", desc: "Dashboard Monitoring Jaringan", link: "#"}
+  { img: "img/projects/5.jpg", desc: "Dashboard Monitoring Jaringan", link: "https://github.com/widycoy/widycoy.github.io"}
 ];
