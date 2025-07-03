@@ -10,7 +10,7 @@ const dataPribadi = [
   ["Country", "Indonesia"],
   ["Status", "Lajang"],
   ["Pendidikan Akhir", "Sarjana Strata 1"],
-  ["Telepon (HP)", "089669565084 , 083879582975"],
+  ["Telepon (HP)", "089669565084"],
   ["E-mail", "widyaaditama@gmail.com"],
 ];
 
